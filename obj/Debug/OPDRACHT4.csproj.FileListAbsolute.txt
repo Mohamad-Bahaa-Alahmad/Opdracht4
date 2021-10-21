@@ -1,0 +1,11 @@
+C:\Users\bahaa\source\repos\OPDRACHT4\bin\Debug\OPDRACHT4.exe.config
+C:\Users\bahaa\source\repos\OPDRACHT4\bin\Debug\OPDRACHT4.exe
+C:\Users\bahaa\source\repos\OPDRACHT4\bin\Debug\OPDRACHT4.pdb
+C:\Users\bahaa\source\repos\OPDRACHT4\obj\Debug\OPDRACHT4.csproj.AssemblyReference.cache
+C:\Users\bahaa\source\repos\OPDRACHT4\obj\Debug\OPDRACHT4.csproj.SuggestedBindingRedirects.cache
+C:\Users\bahaa\source\repos\OPDRACHT4\obj\Debug\OPDRACHT4.Form1.resources
+C:\Users\bahaa\source\repos\OPDRACHT4\obj\Debug\OPDRACHT4.Properties.Resources.resources
+C:\Users\bahaa\source\repos\OPDRACHT4\obj\Debug\OPDRACHT4.csproj.GenerateResource.cache
+C:\Users\bahaa\source\repos\OPDRACHT4\obj\Debug\OPDRACHT4.csproj.CoreCompileInputs.cache
+C:\Users\bahaa\source\repos\OPDRACHT4\obj\Debug\OPDRACHT4.exe
+C:\Users\bahaa\source\repos\OPDRACHT4\obj\Debug\OPDRACHT4.pdb
